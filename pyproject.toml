@@ -1,0 +1,20 @@
+[project]
+name = "datamate"
+version = "0.1.0"
+description = "Zalo AI Challenge 2026 - DataMate agent"
+requires-python = ">=3.10"
+dependencies = ["pandas", "openpyxl", "python-calamine", "duckdb", "rapidfuzz", "jsonschema==4.26.0", "sqlglot==27.29.0"]
+
+[project.optional-dependencies]
+dev = ["pytest"]
+
+# data/ và models/ nằm cạnh mã nguồn: chỉ đóng gói datamate, không để setuptools tự dò
+[tool.setuptools]
+packages = ["datamate"]
+
+[tool.setuptools.package-data]
+datamate = ["*.json", "*.jsonl"]  # vi_vocab.json (sửa lỗi gõ Telex), shots.jsonl
+
+[tool.pytest.ini_options]
+pythonpath = ["."]
+testpaths = ["tests"]

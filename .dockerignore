@@ -1,0 +1,10 @@
+# test được mount vào /data khi chấm; không đóng dữ liệu cuộc thi vào image
+data
+outputs
+.venv
+.git
+.llm
+**/__pycache__
+.pytest_cache
+models/*
+!models/Qwen3-14B

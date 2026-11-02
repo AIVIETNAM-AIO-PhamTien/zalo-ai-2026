@@ -1,0 +1,302 @@
+{
+ "Luật": [
+  "mac dinh"
+ ],
+ "Đơn tính vào doanh thu": [
+  "don khong huy va khong tra hang don co tra hang ke ca chi tra mot phan la don tra hang bo ca don don dang giao van tinh"
+ ],
+ "Bán được bao nhiêu tiền, thu về bao nhiêu tiền": [
+  "la doanh thu theo muc nay khong phai tien khach da tra"
+ ],
+ "Đơn thuộc kỳ nào": [
+  "theo ngay dat khong theo ngay giao hay ngay thu tien",
+  "theo ngay dat khong theo ngay giao hay ngay thu tien don tra hang sau ky ke ca tra sau hom nay van bi loai khoi doanh thu ky dat"
+ ],
+ "Đơn bị huỷ": [
+  "don co trang thai huy don tra hang khong phai don huy"
+ ],
+ "Số đơn": [
+  "chi tinh don khong huy khong tra ca khi dem so don co mot mat hang so don cua mot khach khach da mua trong ky la khach co it nhat mot don nhu vay trong ky"
+ ],
+ "Doanh thu một đơn": [
+  "tong thanh tien cac dong hang da tru giam gia tren tung dong khong tru giam gia tren ca don khuyen mai theo tong tien don voucher shop khong cong thue vat khong gom phi giao hang tien hang tien ban cua don ban cung nghia voi doanh thu"
+ ],
+ "Doanh thu theo hình thức thanh toán": [
+  "theo hinh thuc ghi tren don khong theo lan tra no ve sau don ghi no khong tinh vao tien mat hay chuyen khoan don cod la hinh thuc rieng khong tinh vao tien mat"
+ ],
+ "Doanh thu theo nhóm khách": [
+  "nhom theo cot nhom khach don khong ghi khach khach vang lai khong thuoc nhom nao ke ca nhom le ti trong cua nhom chia cho doanh thu ca shop cung ky tinh ca don vang lai"
+ ],
+ "Tỉ lệ đơn huỷ trong kỳ": [
+  "phan tram don huy trong moi don dat trong ky theo ngay dat moi trang thai ca don huy don tra don dang giao lam tron 2 chu so thap phan"
+ ],
+ "Phần trăm thay đổi, tăng trưởng": [
+  "so voi ky truoc giam thi ra so am"
+ ],
+ "Chênh lệch, hơn / kém, tăng / giảm bao nhiêu (số, không phải %)": [
+  "ky hoi ky so it hon ra so am giu don vi cua so do"
+ ],
+ "Cách nói": [
+  "nghia"
+ ],
+ "Ngày X, hôm nay, hôm qua": [
+  "hoi so phat sinh doanh thu so don gia ban chi trong ngay do"
+ ],
+ "Đến hết ngày X, tính đến hôm nay": [
+  "hoi so con lai con no con ton con hang tinh trang luc het ngay do tinh moi phat sinh tu dau du lieu den het ngay do khong phai ky thang nay",
+  "hoi so con lai con no con ton con hang chua giao tinh trang luc het ngay do tinh moi phat sinh tu dau du lieu den het ngay do khong phai ky thang nay"
+ ],
+ "Từ X đến Y, nhóm X–Y": [
+  "gom ca x va y"
+ ],
+ "N ngày gần nhất": [
+  "n ngay lien nhau ke ca hom nay ngay cuoi la hom nay"
+ ],
+ "Quá N, hơn N, trên N, dưới N": [
+  "khong gom n tu n tro len thi gom n"
+ ],
+ "Tuần": [
+  "bat dau thu hai tuan nay tu thu hai cua tuan chua hom nay den het hom nay tuan truoc tuan roi ca tuan lien truoc thu hai den chu nhat"
+ ],
+ "Tháng M/Y": [
+  "ca thang tu ngay 1 den het ngay cuoi thang"
+ ],
+ "Tháng này": [
+  "tu ngay 1 den het hom nay so voi thang truoc thi lay cung so ngay cua thang truoc tu ngay 1 den het ngay trung so voi hom nay thang truoc khong co ngay do thi den het thang truoc"
+ ],
+ "Từ đầu năm, từ đầu năm tới nay": [
+  "tu 01 01 cua nam nay den het hom nay"
+ ],
+ "Tháng M, quý Q không ghi năm": [
+  "cua nam nay neu khong sau hom nay sau hom nay thi cua nam truoc quy theo duong lich moi quy 3 thang tinh tu thang 1"
+ ],
+ "Tết năm Y, dịp Tết, mùa Tết": [
+  "tu ngay duong cua 23 thang chap nam am y 1 den het ngay duong cua mung 10 thang gieng nam am y so voi truoc tet cung so ngay ngay truoc 23 thang chap tra lich am trong calendar csv cung thu muc"
+ ],
+ "Ca sáng, ca chiều": [
+  "theo gio tao don ca sang 06 00 13 59 ca chieu 14 00 21 59 so ca chieu voi ca sang moc la ca sang"
+ ],
+ "Mặt hàng": [
+  "mon hang san pham cung nghia voi mat hang dong phi phuc vu khong phai mat hang khong xep hang khong dem van tinh vao doanh thu ke ca mau so ti trong nhom hang"
+ ],
+ "Nhóm hàng": [
+  "theo cot nhom hang dung ten nhom cau hoi neu khong gop nhom khac ten du ten gan nhau"
+ ],
+ "Bán chạy": [
+  "theo so luong quy ve don vi co ban khong theo so dong hay so tien bo don huy tra mat hang khac don vi co ban van xep chung theo so do ban nhieu nhat ban duoc nhieu nhat hot nhat cung nghia voi ban chay nhat"
+ ],
+ "Bán được bao nhiêu <đơn vị>": [
+  "cong so luong quy ve don vi co ban cua cac mat hang co don vi co ban la don vi ke ca dong ban theo don vi lon mat hang co don vi co ban khac khong tinh"
+ ],
+ "Hàng lời nhất": [
+  "theo tong lai gop cua mat hang 5"
+ ],
+ "Xác định khách": [
+  "shop co ma khach moi ma khach la mot khach hai ma trung ten la hai khach don khong ghi ma khach le khong phai khach khong dem va khong xep hang shop khong co ma khach xac dinh khach theo ten ghi tren don hai ten chi khac cach viet la cung mot khach hai ten khac chu hoac khac so la hai khach don khach le khong tinh khach mua nhieu tien nhat xep theo doanh thu 1"
+ ],
+ "Nhân viên bán giỏi nhất": [
+  "theo doanh thu 1 cua nhan vien trong ky khong theo so don"
+ ],
+ "Giá trị trung bình một đơn": [
+  "lam tron ve dong nua dong lam tron len"
+ ],
+ "Đơn được tính vào nợ": [
+  "don khong huy don tra hang van tinh neu con no"
+ ],
+ "Nợ một đơn tại ngày X": [
+  "phan chua tra cua tong don so khach phai tra ca don da tru giam gia tren ca don gom phi giao tinh cac khoan tra den het ngay x con no cong cac don con no 0"
+ ],
+ "Nợ theo khách": [
+  "xac dinh khach nhu 3 don khach le van tinh vao tong no nhung khong co dong trong bang no theo khach"
+ ],
+ "Đơn COD, đơn bán qua sàn TMĐT": [
+  "khong phai khach no ke ca khi chua thu duoc tien bo khoi cong no va tuoi no"
+ ],
+ "Tuổi nợ": [
+  "so ngay tinh tu ngay dat khong tu han thanh toan don dat hom nay co tuoi no 0 ngay don dat hom qua 1 ngay"
+ ],
+ "Nợ thêm, trả nợ, thu nợ trong kỳ": [
+  "chi don ghi no khong huy no them phan tong don chua tra ngay trong ngay mua cua don dat trong ky tra no thu no cac khoan tra sau ngay mua co ngay tra trong ky cua moi don ghi no ke ca don ky truoc don tra hang tien tra cung ngay mua la tra luc mua hoan tien tra hang khong tru"
+ ],
+ "Tiền nhập hàng trong kỳ": [
+  "tong tien cac phieu nhap co ngay phieu trong ky bo phieu huy phieu dong ghi nhap dau ky la phieu nhap nhu moi phieu khac co ngay phieu trong ky thi tinh nha cung cap nhap nhieu nhat nha cung cap co tien nhap cao nhat"
+ ],
+ "Nhập trừ bán, chênh nhập và bán": [
+  "phan ban la so luong cua don tinh vao doanh thu 1 quy ve cung don vi voi phan nhap"
+ ],
+ "Giá nhập bình quân một mặt hàng trong tháng": [
+  "binh quan theo so luong nhap khong phai trung binh cong cac muc gia nhap theo don vi nhap cac phieu co ngay phieu trong thang bo phieu huy"
+ ],
+ "Tồn theo đơn vị lớn": [
+  "list 2 so so don vi lon nguyen so don vi co ban le khong co phan le thi so thu hai la 0 hang nhieu cap phan le van tinh bang don vi co ban khong doi sang don vi o giua"
+ ],
+ "Giá trị hàng tồn kho": [
+  "ton het hom nay cua tung mat hang nhan gia von mot don vi co ban ghi trong danh muc hang chi tinh hang con ton"
+ ],
+ "Mặt hàng hết hàng cuối ngày": [
+  "mat hang mua ve de ban khong tinh mon pha che che bien tai cho ma luc het ngay do ton kho bang 0 het giua ngay nhung nhap them truoc cuoi ngay thi khong tinh"
+ ],
+ "Mặt hàng không bán được trong kỳ (ế)": [
+  "mat hang cua hang da tung ban truoc ky co trong don 1 khong tinh don huy don tra nhung trong ky khong co don nao 1 mua mat hang do"
+ ],
+ "Giá bán X ngày D": [
+  "don gia ghi tren dong ban x cua cac don dat ngay d cho mot don vi co ban truoc chiet khau dong tinh ca dong cua don huy don tra"
+ ],
+ "Hiệu ứng tăng giá": [
+  "lan tang gia ngay d gia moi cao hon gia lien truoc theo bang gia tang len cung mot gia nhieu lan thi lay lan dau so so luong don vi co ban n ngay ke tu d tinh ca d voi n ngay ngay truoc d ca hai khoang bo don huy va don tra"
+ ],
+ "Giá vốn": [
+  "binh quan gia quyen theo lo nhap tai thoi diem ban khong theo fifo khong theo gia nhap lan cuoi"
+ ],
+ "Lãi gộp": [
+  "doanh thu 1 tru gia von cua hang da ban gia von cua moi dong ban bang so luong nhan voi gia von ghi tren dong ban cho mot don vi ban cung don vi voi don gia khong tu tinh lai gia von tu phieu nhap hay tu lo"
+ ],
+ "Lãi ròng một tháng": [
+  "lai gop cua thang tru moi khoan ghi trong so chi phi cua thang do ke ca sua chua thay thiet bi"
+ ],
+ "Size M, size L": [
+  "mon co ten ket thuc bang m hoac l khong phan biet hoa thuong"
+ ],
+ "Thuốc kê đơn": [
+  "thuoc ke don san pham ghi ke don trong danh muc thuoc moi san pham con lai la hang khong ke don ti le ke don tinh theo doanh thu"
+ ],
+ "Hàng hết hạn trong N ngày tới": [
+  "tinh tai hom nay d lo con ton co han dung tu d den het ngay d n tien von la gia tri phan con ton cua lo theo gia nhap cua chinh lo do quy ve don vi co ban khong theo gia von binh quan"
+ ],
+ "Doanh thu theo hoạt chất": [
+  "doanh thu 1 cac thuoc co hoat chat ghi dung nhu vay trong danh muc thuoc thuoc phoi hop nhieu hoat chat la mot loai rieng khong tinh vao tung hoat chat trong do"
+ ],
+ "Lô gần hết hạn nhất của một thuốc": [
+  "trong cac lo con ton chua qua han tai hom nay lo co han som nhat"
+ ],
+ "Giao nhiều đợt": [
+  "so dot giao trong thang x so dot co ngay giao trong thang x moi dot cua moi don tinh mot dot ke ca dot cua don sau do tra hang",
+  "tinh den het hom nay so dot giao trong thang x so dot co ngay giao trong thang x moi dot cua moi don tinh mot dot ke ca dot cua don sau do tra hang dot da cho van tinh du don sau do tra hang"
+ ],
+ "Cách ghi": [
+  "hieu la"
+ ],
+ "Tên gọi, nhãn": [
+  "cac ten cung chi mot thu trong file hay trong cau hoi la cung mot thu file co ma thi theo ma"
+ ],
+ "Ô để trống ở các dòng sau của cùng một nhóm dòng": [
+  "giong o do o dong dau nhom khach ghi chu trang thai cua don ap cho moi dong cua don khong phai thieu du lieu khong co nghia la khach le hay don hoan thanh"
+ ],
+ "Trạng thái đơn": [
+  "moi don co dung mot trong bon trang thai hoan thanh huy tra hang dang giao"
+ ],
+ "Hai dòng của **cùng một đơn** giống nhau ở mọi ô": [
+  "loi xuat file tinh mot lan hai dong giong nhau cua hai don khac nhau la hai lan ban tinh ca hai"
+ ],
+ "Bảng không ghi theo đơn": [
+  "moi dong la mot lan ghi hai dong giong nhau trong cung file van tinh ca hai"
+ ],
+ "Ngày không ghi năm": [
+  "nam cua sheet chua dong do"
+ ],
+ "type": [
+  "format dung sai"
+ ],
+ "number": [
+  "json number khong don vi khong dau phan cach nghin tien la so nguyen vnd 4820000 18 6 4 82 trieu 4 820 000 4820k 4820000"
+ ],
+ "percent": [
+  "json number la so phan tram 12 4 ghi 12 4 khong kem ky hieu 12 4 12 4 0 124"
+ ],
+ "date": [
+  "yyyy mm dd cau hoi theo thang yyyy mm 2026 08 15 2025 09 15 08 2026 thang 9 2025"
+ ],
+ "boolean": [
+  "true false true co 1"
+ ],
+ "string": [
+  "ten nhu trong du lieu du dau tieng viet sting dau 330ml sting dau 330ml sai dau file khong co cach viet nay sting dau 330ml"
+ ],
+ "list": [
+  "mang json co thu tu mot phan tu van la mang ca phe sua 3 10 ca phe sua bac xiu 3 thung 10 chai"
+ ],
+ "table": [
+  "columns rows o so la json number columns khach hang so tien no rows chi lan 3200000 o 3 200 000d"
+ ],
+ "unanswerable": [
+  "type unanswerable reason"
+ ],
+ "Từ": [
+  "nghia"
+ ],
+ "Đơn vị cơ bản, đơn vị lớn": [
+  "moi mat hang co mot don vi co ban don vi nho nhat shop dem va co the co don vi lon he so quy doi khac nhau theo shop va theo mat hang luon doc o bang quy doi hoac readme cua shop don vi khong co dong quy doi nao la don vi co ban he so 1"
+ ],
+ "Báo cáo tiền mặt theo ca": [
+  "chi ghi tien mat theo gio thu tien gom ca tien khach tra no doanh thu so don tinh tu don hang theo ngay gio dat nhu tren khong tinh tu bao cao ca"
+ ],
+ "Trung bình mỗi ngày thứ X của kỳ": [
+  "chia cho so ngay thu x trong ky ke ca ngay khong co don phieu"
+ ],
+ "Khách trung thành nhất": [
+  "khach xac dinh nhu dong xac dinh khach co nhieu ngay co mua nhat trong ky"
+ ],
+ "Khách sộp nhất": [
+  "khach co gia tri trung binh mot don cao nhat trong ky chi xet khach co tu 3 don tro len trong ky"
+ ],
+ "Khách hay đổi ý nhất": [
+  "khach co nhieu don huy nhat trong ky"
+ ],
+ "Mặt hàng được ưa chuộng nhất": [
+  "mat hang co mat trong nhieu don nhat trong ky"
+ ],
+ "Nhân viên, thợ chăm chỉ nhất": [
+  "nguoi co nhieu ngay lam viec nhat trong ky ngay lam viec la ngay co it nhat mot don ke ca phieu bao hanh do nguoi do ban hoac lam"
+ ],
+ "Ngày đắt khách nhất": [
+  "ngay co nhieu don nhat trong ky"
+ ],
+ "Giờ cao điểm": [
+  "khung mot gio tron theo gio tao don tu h gio den truoc h 1 gio co nhieu don nhat trong ky dap an la gio bat dau khung type number"
+ ],
+ "Nhà cung cấp chính": [
+  "nha cung cap co nhieu phieu nhap nhat trong ky bo phieu huy khac nha cung cap nhap nhieu tien nhat"
+ ],
+ "Topping ghi chung ô với món": [
+  "mon va topping la hai mat hang ban so luong tien cua topping tinh vao mat hang topping cung mat hang voi topping ghi dong rieng khong tinh vao mon"
+ ],
+ "Tiền giảm voucher, tiền giảm nhờ dùng điểm, phí ship": [
+  "tra so duong cong theo ngay cua hoa don chi tinh hoa don khong huy khong tra"
+ ],
+ "Số sữa, size bỉm": [
+  "lay theo cot so size cua danh muc hang de trong cot so size thi khong xep vao so size nao du ten hang co so phan tram cua mot size hay mot hang chia cho tong so bich moi hang bim ta cung ky"
+ ],
+ "Khách thành viên mới trong tháng": [
+  "so khach co ngay dang ky trong thang do ke ca khach chua mua lan nao"
+ ],
+ "Lượt xe, phiếu": [
+  "moi dong so sua xe la mot luot xe mot phieu ke ca phieu bao hanh mot xe toi hai lan la hai luot so phieu so luot xe cua tiem hay cua mot tho tinh ca phieu bao hanh tien trung binh mot phieu chia cho so phieu co thu tien khong tinh phieu bao hanh"
+ ],
+ "Việc ghi trong ô Làm gì": [
+  "luot xe co lam mot viec phieu co viec do tinh mot luot nhot ghi tron la nhot may khong phai nhot lap ruot ghi tron la thay ruot moi khong phai va sua dien khong gom thay bong den thay ac quy phieu bao hanh khong tinh la luot lam viec do"
+ ],
+ "Dòng xe, biển số": [
+  "ten dong xe chi khac hoa thuong hoac ghi tat la cung mot dong so chiec xe mang toi so bien so khac nhau tinh ca xe chi toi bao hanh"
+ ],
+ "Thợ làm nhiều nhất": [
+  "theo so luot xe ke ca phieu bao hanh tho do lam"
+ ],
+ "Bảo hành": [
+  "ti le bao hanh bang so phieu bao hanh co ngay trong ky chia cho so phieu co thu tien trong cung ky phieu bao hanh cua xe sua tu ky truoc van tinh"
+ ],
+ "Khách quen, xe tới nhiều lần": [
+  "xac dinh xe theo bien so chi dem phieu co thu tien phieu bao hanh khong tinh la mot lan toi xe khach quen xe co tu 2 phieu co thu tien trong ky cau hoi xe nao thi tra loi bang bien so"
+ ],
+ "Thu máy cũ": [
+  "khach phai tra la tien cua don sau bot va sau tru may cu gom ca phan con no tien thu may cu khong tru vao doanh thu tong khach phai tra tien thu may cu cua mot ky chi tinh don khong huy khong tra 1"
+ ],
+ "Trả góp": [
+  "don tra gop la don ghi no 4 phan gop chua tra la tien khach con no tien gop moi ky la tien khach tra no tinh vao thu no tien gop khong tinh vao doanh thu vi doanh thu da tinh du gia may vao ngay mua tien tra truoc khong phai tien gop cau hoi khach no mua chiu tra no thu no gom ca don tra gop du shop ghi so gop rieng voi so no ky gop co han truoc ngay hoi ma chua gop du la qua han ky co han dung ngay hoi thi chua qua han"
+ ],
+ "Dòng máy, hãng": [
+  "dong may phan ten hang dung truoc dung luong gb ten khong co phan gb thi dong may la ca ten nokia 105 4g 4g la mang khong phai dung luong hang chu dau ten hang may iphone la hang apple may khach mang toi doi khong phai may ban"
+ ],
+ "Sổ không có cột trạng thái": [
+  "trang thai don ghi o cot ghi chu ghi chu khong nhac trang thai la don hoan thanh"
+ ]
+}
